@@ -1,0 +1,24 @@
+@relation trafficsign 
+@attribute filename string
+@attribute class {mand,proh,warn,sny}
+
+@data
+mand01.png,mand
+mand02.png,mand
+mand03.png,mand
+mand04.png,mand
+mand05.png,mand
+proh01.png,proh
+proh02.png,proh
+proh03.png,proh
+proh04.png,proh
+proh05.png,proh
+warn01.png,warn
+warn02.png,warn
+warn03.png,warn
+warn04.png,warn
+warn05.png,warn
+sny01.png,sny
+sny02.png,sny
+sny03.png,sny
+sny04.png,sny
